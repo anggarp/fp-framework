@@ -9,7 +9,7 @@
           </div>
           <div class="col-lg-3 text-right">
             <a href="<?=site_url('home/login')?>" class="small mr-3"><span class="icon-unlock-alt"></span> Masuk</a>
-            <a href="<?=site_url('register/add')?>" class="small btn btn-primary px-4 py-2 rounded-0"><span class="icon-users"></span> Daftar</a>
+            <a href="<?=site_url('home/register')?>" class="small btn btn-primary px-4 py-2 rounded-0"><span class="icon-users"></span> Daftar</a>
           </div>
         </div>
       </div>
